@@ -1,1 +1,1 @@
-# The-Grid-Search-ALGO
+# The-Grid-Search-ALGO It checks whether a smaller grid pattern P exists within a larger grid G. The function gridSearch (currently empty) will contain logic to scan the main grid line by line to find if all rows of P appear consecutively and in order inside G.
